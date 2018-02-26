@@ -1,11 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-hello 
-I am a programmer.
-she is too.
-shaods.
-sjapo[cp-.
-jsdoadja.
-askdjapskd.
-1
-2
+现在在使用远程库。
